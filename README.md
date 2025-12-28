@@ -1,6 +1,6 @@
 # DeepChess 
 
-A deep learning system that evaluates chess positions using convolutional neural networkk.
+A deep learning system that evaluates chess positions using convolutional neural networks.
 
 ## 🎯 Overview
 
