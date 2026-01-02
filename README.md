@@ -103,9 +103,6 @@ DeepChess/
 - **Train/Val Split**: 80/20
 
 ## 🔮 Future Improvements
-
-- [ ] Add residual connections (ResNet architecture) for deeper networks
 - [ ] Include additional features (castling rights, en passant, whose turn)
 - [ ] Expand to move prediction (not just evaluation)
 - [ ] Deploy as web application with interactive chess board
-- [ ] Compare performance to other engines (Leela Chess Zero, etc.)
